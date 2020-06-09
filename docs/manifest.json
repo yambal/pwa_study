@@ -1,10 +1,11 @@
 {
-    "short_name": "PWAサンプル",
-    "name": "PWAサンプルアプリケーション",
-    "display": "standalone",
-    "start_url": "/pwa_study/index.html",
-    "theme_color": "#B12A34",
-    "background_color": "#B12A34",
+    "name":"資格Times",
+    "short_name":"資格Times",
+    "description":"資格Timesはあらゆる資格についての確かな情報を集約したポータルサイトです。",
+    "start_url":"/pwa_study/",
+    "display":"standalone",
+    "background_color":"#ffffff",
+    "theme_color":"#4dbac4",
     "lang":"ja",
     "icons": [
         {
