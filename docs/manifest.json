@@ -2,11 +2,14 @@
     "name":"資格Times",
     "short_name":"資格Times",
     "description":"資格Timesはあらゆる資格についての確かな情報を集約したポータルサイトです。",
-    "start_url":"/pwa_study/",
+    "start_url": "https://yambal.github.io/pwa_study/",
     "display":"standalone",
     "background_color":"#ffffff",
     "theme_color":"#4dbac4",
     "lang":"ja",
+    "url": "https://yambal.github.io/pwa_study/",
+    "screenshots": [],
+    "orientation": "portrait",
     "icons": [
         {
             "src": "512x512.png",
